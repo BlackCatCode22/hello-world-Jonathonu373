@@ -1,18 +1,12 @@
 //Practice programs
-//My name and shoe size practice.
+
 
 public class AwesomeJavaProgramPractice {
     public static void main(String[] args) {
-        int myInt =7;
-        double shoeSize =9.5;
-        char myInitial = 'J';
+    burp();
 
-
-        double result = myInt * shoeSize;
-        System.out.println(myInt * shoeSize);
-
+}
+private static void burp() {
+    System.out.println("Buuuurp");
     }
-    String myName = "John"; {
-        System.out.println(myName.length());}
-
 }
